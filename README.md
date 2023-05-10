@@ -23,4 +23,8 @@ cd your-repo-name
 https://drive.google.com/file/d/1D8f0LhbBiY_jp444YgrisHPJe5e8k0P_/view?usp=sharing
 ```
 
+Upload the file Bot.py in your google drive and run the above collab notebook. 
+
+Dataset link : 
+
 
