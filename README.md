@@ -20,5 +20,7 @@ cd your-repo-name
 
 3. Run the notebook in Google Collab as it requires GPU.
 ```
+https://drive.google.com/file/d/1D8f0LhbBiY_jp444YgrisHPJe5e8k0P_/view?usp=sharing
+```
 
 
