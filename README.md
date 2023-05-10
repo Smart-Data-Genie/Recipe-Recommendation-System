@@ -10,7 +10,7 @@ The code for running the model in discord bot is in Bot.py
 1. Clone this repository to your local machine:
 
 ```
-git clone git clone https://github.com/DSCI-Admissions-project/data-analytics 
+git clone git clone https://github.com/Smart-Data-Genie/Recipe-Recommendation-System
 ``` 
 
 2. Navigate to the root directory of the project:
@@ -18,7 +18,7 @@ git clone git clone https://github.com/DSCI-Admissions-project/data-analytics
 cd your-repo-name
 ```
 
-3. Run the notebook in Google Collab
+3. Run the notebook in Google Collab as it requires GPU.
 ```
 
 
